@@ -1,0 +1,1 @@
+Sample repository to test code pipeline with continuous delivery for infrastructure using Cloud Fromation
